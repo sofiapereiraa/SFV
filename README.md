@@ -4,6 +4,12 @@ Site desenvolvido como um projeto de desenvolvimento web dedicado à Seleção B
 
 A ideia surgiu durante um período com várias competições de vôlei acontecendo e também por ser um esporte que gosto muito. O projeto busca reunir, de forma simples e organizada, informações sobre as atletas do ciclo atual da Seleção.
 
+---
+# Projeto
+
+🔗 Acesse:  https://sofiapereiraa.github.io/SFV/
+
+---
 ##  Sobre o projeto
 
 O site apresenta informações sobre as atletas, incluindo:
